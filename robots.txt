@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casino-bez-registracii202.github.io/sitemap.xml
